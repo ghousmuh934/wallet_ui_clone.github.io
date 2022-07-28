@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshot
 
-<p float="left center">
+<p float="left" align="center">
   <img src="https://user-images.githubusercontent.com/106868350/180518836-322839f0-dd28-4164-8712-e5814fabbe3c.png" width="400" height="840" />
   <img src="https://user-images.githubusercontent.com/106868350/180518849-c8c5aeb1-7dce-42ec-9c80-b145564597b5.png" width="400" height="840" /> 
 </p>
